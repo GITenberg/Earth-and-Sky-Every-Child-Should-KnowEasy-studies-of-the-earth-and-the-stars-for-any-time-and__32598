@@ -1,0 +1,29 @@
+_repo: Earth-and-Sky-Every-Child-Should-KnowEasy-studies-of-the-earth-and-the-stars-for-any-time-and__32598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32598-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Rogers, Julia Ellen
+    birthdate: 1866
+    gutenberg_agent_id: '35933'
+    url: http://www.gutenberg.org/2009/agents/35933
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Juvenile literature'
+- !lcc 'QE'
+- !lcsh 'Geology -- Juvenile literature'
+title: 'Earth and Sky Every Child Should Know
+
+  Easy studies of the earth and the stars for any time and place'
+url: http://www.gutenberg.org/ebooks/32598
