@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35933'
     url: http://www.gutenberg.org/2009/agents/35933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32598#Earth-and-Sky-Every-Child-Should-KnowEasy-studies-of-the-earth-and-the-stars-for-any-time-and_
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
 identifiers:
